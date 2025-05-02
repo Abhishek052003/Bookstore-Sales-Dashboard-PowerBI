@@ -1,0 +1,51 @@
+book_id,title,author,genre,price,publish_date
+1,The Lost Horizon,James Hilton,Fiction,299,15-01-2020
+2,Digital Fortress,Dan Brown,Thriller,399,10-06-2018
+3,Clean Code,Robert C. Martin,Programming,549.99,01-08-2008
+4,The Psychology of Money,Morgan Housel,Finance,349,01-11-2020
+5,Atomic Habits,James Clear,Self-help,450,16-10-2018
+6,The Silent Patient,Alex Michaelides,Thriller,299,05-02-2019
+7,The Hobbit,J.R.R. Tolkien,Fantasy,399,21-09-1937
+8,Sapiens,Yuval Noah Harari,History,499,01-01-2011
+9,The Subtle Art of Not Giving a F*ck,Mark Manson,Self-help,350,13-09-2016
+10,Zero to One,Peter Thiel,Business,450,16-09-2014
+11,The Alchemist,Paulo Coelho,Fiction,320,15-04-1988
+12,Educated,Tara Westover,Memoir,379,20-02-2018
+13,The 5 AM Club,Robin Sharma,Self-help,399,04-12-2018
+14,Rich Dad Poor Dad,Robert Kiyosaki,Finance,299,01-04-1997
+15,The Monk Who Sold His Ferrari,Robin Sharma,Self-help,349,01-01-1999
+16,Think Like a Monk,Jay Shetty,Self-help,375,08-09-2020
+17,Dune,Frank Herbert,Science Fiction,499,01-08-1965
+18,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,299,26-06-1997
+19,The Name of the Wind,Patrick Rothfuss,Fantasy,425,27-03-2007
+20,Ikigai,Héctor García,Self-help,250,01-04-2016
+21,To Kill a Mockingbird,Harper Lee,Fiction,299,11-07-1960
+22,1984,George Orwell,Dystopian,320,08-06-1949
+23,Brave New World,Aldous Huxley,Dystopian,340,01-01-1932
+24,The Great Gatsby,F. Scott Fitzgerald,Classic,299,10-04-1925
+25,Meditations,Marcus Aurelius,Philosophy,270,0180-01-01
+26,Start With Why,Simon Sinek,Business,370,29-10-2009
+27,Deep Work,Cal Newport,Self-help,399,05-01-2016
+28,Can’t Hurt Me,David Goggins,Biography,450,04-12-2018
+29,The Lean Startup,Eric Ries,Business,430,13-09-2011
+30,Man's Search for Meaning,Viktor E. Frankl,Philosophy,320,01-01-1946
+31,Rework,Jason Fried,Business,350,09-03-2010
+32,A Brief History of Time,Stephen Hawking,Science,480,01-04-1988
+33,The Code Book,Simon Singh,Technology,399,01-10-1999
+34,Steve Jobs,Walter Isaacson,Biography,520,24-10-2011
+35,Becoming,Michelle Obama,Memoir,499,13-11-2018
+36,The Art of War,Sun Tzu,Strategy,250,0500-01-01
+37,"Thinking, Fast and Slow",Daniel Kahneman,Psychology,489,25-10-2011
+38,How to Win Friends and Influence People,Dale Carnegie,Self-help,299,01-10-1936
+39,The Intelligent Investor,Benjamin Graham,Finance,599,01-01-1949
+40,Outliers,Malcolm Gladwell,Psychology,370,18-11-2008
+41,The Tipping Point,Malcolm Gladwell,Psychology,340,01-03-2000
+42,Born a Crime,Trevor Noah,Memoir,380,15-11-2016
+43,Tools of Titans,Tim Ferriss,Self-help,550,06-12-2016
+44,Cracking the Coding Interview,Gayle Laakmann McDowell,Programming,699,01-07-2015
+45,Introduction to Algorithms,Thomas H. Cormen,Programming,899,31-07-2009
+46,The Road,Cormac McCarthy,Fiction,299,26-09-2006
+47,The Shining,Stephen King,Horror,399,28-01-1977
+48,11/22/63,Stephen King,Science Fiction,449,08-11-2011
+49,Pride and Prejudice,Jane Austen,Classic,275,1813-01-28
+50,Jane Eyre,Charlotte Brontë,Classic,290,1847-10-16
